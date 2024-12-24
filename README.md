@@ -1,0 +1,2 @@
+# MyNews
+Evidence based journalism 
